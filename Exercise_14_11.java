@@ -1,5 +1,5 @@
 /* Jameson Treu
- * jst86520
+ * A program that draws a simple smiley face using JavaFX
  */
 import javafx.application.Application;
 import javafx.event.EventHandler;
@@ -84,7 +84,7 @@ public class Exercise_14_11 extends Application{
 		face.setFill(null);
 		pane.getChildren().add(face);
 		
-		/* Create a scene and place it in the stage */
+	/* Create a scene and place it in the stage */
     	Scene scene = new Scene(pane, 500, 500);
     	primaryStage.setTitle("Exercise 14.11"); // Set the stage title
     	primaryStage.setScene(scene); // Place the scene in the stage
