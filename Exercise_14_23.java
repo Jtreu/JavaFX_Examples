@@ -1,5 +1,5 @@
 /* Jameson Treu
- * jst86520
+ * Determines if 2 rectangles are overlapping based on rectangles generated from user coordinates
  */
 import java.util.Scanner;
 import javafx.application.Application;
