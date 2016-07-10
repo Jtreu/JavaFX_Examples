@@ -1,3 +1,6 @@
+/* Jameson Treu
+*  Moving a ball shape within a pane with simple button controls 
+*/
 import javafx.application.Application;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
