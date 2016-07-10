@@ -1,3 +1,10 @@
+/* Jameson Treu
+* a program that calculates the future value of an investment at a given interest rate for a specified number of
+  years.
+* NOTE: Possible arithmetic error, check values against other investment calculators before using in a real
+        setting. If errors occur, modify program accordingly or use a better investment calculator, of which there
+        are infinitely many
+*/
 import javafx.application.Application;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
