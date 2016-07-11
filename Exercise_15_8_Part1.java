@@ -1,3 +1,6 @@
+/* Jameson Treu
+*  A simple program tht displays the mouse position when the mouse button is clicked
+*/
 import javafx.application.Application;
 import javafx.event.EventHandler;
 import javafx.scene.Scene;
